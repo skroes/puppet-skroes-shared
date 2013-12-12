@@ -5,8 +5,8 @@ mod 'stahnma/puppetlabs_yum', '0.1.4'
 mod 'metcalfc/rpmrepos', '0.0.1'
 mod 'puppetlabs/dism', '0.1.0'
 mod 'simondean/iis', '0.1.3'
-mod 'saz-resolv_conf', '1.0.3'
-mod 'saz-dnsmasq', '1.0.1'
+mod "saz/resolv_conf"
+mod 'saz/dnsmasq', '1.0.1'
 
 # forge puppetlabs
 mod 'puppetlabs/puppetdb', '3.0.0'
