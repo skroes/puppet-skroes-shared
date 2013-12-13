@@ -1,4 +1,4 @@
-puppet-skroes-shared
-====================
+puppet-shared
+=============
 
-Shared upstream modules
+Shared and upstream modules
